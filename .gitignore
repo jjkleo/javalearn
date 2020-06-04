@@ -5,6 +5,10 @@
 out
 gen
 
+# Java
+target
 
 props.txt
 a.xml
+a.ini
+

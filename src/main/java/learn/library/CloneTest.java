@@ -1,6 +1,8 @@
 package learn.library;
 
 
+import java.util.Collection;
+
 class Address{
     String detail;
     public Address(String detail){
